@@ -1,4 +1,5 @@
-#Cognifyz Task-5
+# Cognifyz Task-5
+
 🚀 Task 5: API Integration and Front-End Interaction
 
 I’m thrilled to share my progress on Cognifyz Task-5! This challenge allowed me to focus on enhancing the server-client communication, providing a dynamic user experience through seamless API integration. Here's what I accomplished:
