@@ -20,10 +20,10 @@ app.use(bodyParser.json());
 
 // MySQL database connection
 const db = mysql.createConnection({
-    host: 'localhost', // Replace with your MySQL host
-    user: 'root',      // Replace with your MySQL username
-    password: '27072004', // Replace with your MySQL password
-    database: 'feedbackdB',   // Replace with your database name
+    host: 'localhost', 
+    user: 'root',      
+    password: '123@456', 
+    database: 'feedbackdB',   
 });
 
 db.connect((err) => {
